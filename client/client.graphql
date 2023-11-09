@@ -1,0 +1,4 @@
+type Track {
+   myClientField: Boolean!
+   clientField: Boolean!
+}
